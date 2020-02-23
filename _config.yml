@@ -39,3 +39,5 @@ texture:
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+disqus_shortname: 'gogosing.github.io'
