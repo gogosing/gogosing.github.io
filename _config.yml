@@ -16,7 +16,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: GoGoSing
-  tagline: Developer.
+  tagline: Developer
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
@@ -25,7 +25,6 @@ texture:
   # generate social links in footer
   social_links:
     github:  gogosing
-    linkedIn: in/thelehhman
     rss: rss
  
 
