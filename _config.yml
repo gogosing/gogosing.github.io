@@ -21,6 +21,7 @@ texture:
   style: black
   showNav: true
   showPicker: false
+  disqus_shortname: 'gogosing-github-io'
 
   # generate social links in footer
   social_links:
@@ -39,5 +40,3 @@ texture:
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
-
-disqus_shortname: 'gogosing.github.io'
